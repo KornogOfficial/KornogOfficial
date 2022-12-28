@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KornogOfficial
 - 👀 I’m interested in Crypto currency
-- 🌱 I’m currently learning Sol
+- 🌱 I’m currently learning Solana
 - 💞️ I’m looking to collaborate on KORNOG -KRG Token
 - 📫 How to reach me : by email
 
